@@ -1,0 +1,16 @@
+{
+  "ids": {
+    "Alumno": 3,
+    "Carrera": 3
+  },
+  "models": {
+    "Alumno": {
+      "1": "{\"nomAlumno\":\"Juan Carlos\",\"id\":1}",
+      "2": "{\"nomAlumno\":\"Jatzidi Yared\",\"id\":2}"
+    },
+    "Carrera": {
+      "1": "{\"nomCarrera\":\"Sistemas\",\"id\":1}",
+      "2": "{\"nomCarrera\":\"TICS\",\"id\":2}"
+    }
+  }
+}
